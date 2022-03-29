@@ -1,0 +1,4 @@
+{
+    "project_name": "BISB Bootcamp {{ cookiecutter.year }}",
+    "project_slug": "{{ cookiecutter.project_name.replace(' ', '-') }}",
+}
