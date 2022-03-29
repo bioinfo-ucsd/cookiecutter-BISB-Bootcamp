@@ -14,19 +14,22 @@ This 5-day intensive course is designed to place incoming students on a path to 
 
 ## Course Instructors
 
-This course is entirely taught by graduate students! There are four main instructors for the course from the Bioinformatics & Systems Biology program. The main instructors teach the majority of "learning modules", along with lectures that contain helpful graduate school knoweldge. There are also quite a few guest instructors that will also be joining the course!
+This course is led by BISB graduate students! There are four main instructors for the course from the Bioinformatics & Systems Biology program. The main instructors teach the majority of "learning modules", along with lectures that contain helpful graduate school knoweldge. There are also quite a few guest instructors that will also be joining the course!
 
-### Main Instructors
+### Lead Instructors
 
-| Name                  | Email Address                                         | Year and Track                             | Advisor(s)      |
-| --------------------- | ----------------------------------------------------- | ------------------------------------------ | ------------ |
-
+| Name                                | Email Address                       | Year                                | Track                                | Advisor(s)                             |
+| ----------------------------------- | ----------------------------------- | ----------------------------------- | ------------------------------------ | -------------------------------------- |
+| {{ cookiecutter.instructor1_name }} | {{ cookiecutter.instructor1_email}} | {{ cookiecutter.instructor1_year }} | {{ cookiecutter.instructor1_track }} | {{ cookiecutter.instructor1_advisor }} |
+| {{ cookiecutter.instructor2_name }} | {{ cookiecutter.instructor2_email}} | {{ cookiecutter.instructor2_year }} | {{ cookiecutter.instructor2_track }} | {{ cookiecutter.instructor2_advisor }} |
+| {{ cookiecutter.instructor3_name }} | {{ cookiecutter.instructor3_email}} | {{ cookiecutter.instructor3_year }} | {{ cookiecutter.instructor3_track }} | {{ cookiecutter.instructor3_advisor }} |
+| {{ cookiecutter.instructor4_name }} | {{ cookiecutter.instructor4_email}} | {{ cookiecutter.instructor4_year }} | {{ cookiecutter.instructor4_track }} | {{ cookiecutter.instructor4_advisor }} |
 
 ### Guest Instructors
 
-| Name                | Module Name                                             | Year and Track                             | Advisor(s) |
-| ------------------- | ------------------------------------------------------- | ------------------------------------------ | ---------- |
-
+| Name | Title | Module Name |
+| ---- | ----- | ----------- |
+| TODO | TODO  | TODO        |
 
 ## Bootcamp Schedule
 
