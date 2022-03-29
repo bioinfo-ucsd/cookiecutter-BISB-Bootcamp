@@ -1,5 +1,11 @@
 # Cookiecutter BISB Bootcamp
 
+## Usage
+
+```bash
+cookiecutter https://github.com/bioinfo-ucsd/cookiecutter-BISB-Bootcamp.git
+```
+
 ## Directory structure
 
 ```bash
@@ -10,3 +16,8 @@
 ├── day4
 └── day5
 ```
+
+## TODOs
+
+1. Create instructor-materials directory
+2. Create tscc-setup submodule
