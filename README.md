@@ -10,6 +10,7 @@ cookiecutter https://github.com/bioinfo-ucsd/cookiecutter-BISB-Bootcamp.git
 
 ```bash
 ├── README.md
+├── summer-faculty-talks.md
 ├── day1
 ├── day2
 ├── day3
