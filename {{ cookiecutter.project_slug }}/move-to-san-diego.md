@@ -8,7 +8,7 @@ UCSD Housing Dining Hospitality (HDH) operates [Graduate and Family Housing](htt
 
 If you are planning to live on-campus, we recommend applying to the graduate housing waitlist **immediately** because graduate housing is highly competitive. We also suggest to indicate your estimated arrival date to be a **month to a month-and-a-half earlier** than your actual arrival time to have higher priority on the waitlist. If your arrival date is approaching and you haven't heard back, we suggest calling the [Graduate and Family Housing Allocations office](https://hdhgradfamilyhousing.ucsd.edu/about-us/contact-us.html). If you haven't heard back by mid-August, we recommend you begin looking for off-campus options.
 
-## If you are planning to live off-campus
+## Off-campus housing
 
 If you would like to live *close to campus* for your first year, there are many of housing options available. Below are some of the popular apartment complexes in the area, ordered by proximity to the School of Medicine (where most BISB labs are located):
 

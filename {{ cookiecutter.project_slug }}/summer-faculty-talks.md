@@ -37,9 +37,9 @@ If you are unable to attend a seminar or you would like to rewatch a talk, you c
 
 ## Questions?
 
-You can find instructions for downloading Zoom and associating it with your UCSD account at the following link: https://blink.ucsd.edu/technology/file-sharing/zoom/index.html.
+You can find instructions for downloading Zoom and associating it with your UCSD account at https://blink.ucsd.edu/technology/file-sharing/zoom/index.html.
 
-The BISB Bootcamp Summer Faculty Talk Series is managed by one of our lead BISB Bootcamp instructors. Please contact them if you have any questions or if you are having difficulties accessing this seminar series.
+The BISB Bootcamp Summer Faculty Talk Series is managed by our lead BISB Bootcamp instructors. Please contact them if you have any questions or if you are having difficulties accessing this seminar series.
 
 | Name                                | Email Address                                                                       |
 | ----------------------------------- | -----------------------------------                                                 |

@@ -10,15 +10,17 @@ This 5-day intensive course is designed to place incoming students on a path to 
 * Showcase faculty research and guide students in preparing for their research rotations
 * Review strategies for choosing a thesis advisor, navigating a PhD, and preparing for a scientific career
 
-Bootcamp's content spans the topics listed above and delivered through lectures, discussions, and interactive modules.
+Bootcamp's content spans the topics listed above and is delivered through lectures, discussions, and interactive modules.
 
 ## Location and Schedule
 
-BISB Bootcamp is held during the week prior the start of Fall classes, from **{{ cookiecutter.bootcamp_start_date|strftime('%B %d, %Y') }} to {{ cookiecutter.bootcamp_end_date|strftime('%B %d, %Y') }}**, in **{{ cookiecutter.bootcamp_location }}**. Bootcamp runs from 8:30 AM to 5:00 PM each day. Breakfast and lunch will be provided. The complete schedule can be found at the following link: {{ cookiecutter.link_to_schedule }}.
+BISB Bootcamp is held in the week prior to the start of Fall classes, from **{{ cookiecutter.bootcamp_start_date|strftime('%B %d, %Y') }} to {{ cookiecutter.bootcamp_end_date|strftime('%B %d, %Y') }}**, in **{{ cookiecutter.bootcamp_location }}**. Bootcamp runs from 8:30 AM to 5:00 PM each day. Breakfast and lunch will be provided.
+
+The complete schedule can be found here: {{ cookiecutter.link_to_schedule }}
 
 ## Learn about BISB/BMI Research: Summer Faculty Talks
 
-Over the summer, prior to Bootcamp, we host a weekly seminar series via Zoom where BISB and BMI faculty share their work and incoming students can tune-in to learn about research opportunities. To learn more about this year's series, visit the [summer-faculty-talks.md](./summer-faculty-talks.md) file.
+Over the summer, prior to Bootcamp, we host a weekly seminar series via Zoom where BISB and BMI faculty share their work and incoming students can learn about research opportunities. To learn more about this year's series, see [summer-faculty-talks.md](./summer-faculty-talks.md).
 
 ## Moving to San Diego
 
