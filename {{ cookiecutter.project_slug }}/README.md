@@ -20,6 +20,10 @@ BISB Bootcamp is held during the week prior the start of Fall classes, from **{{
 
 Over the summer, prior to Bootcamp, we host a weekly seminar series via Zoom where BISB and BMI faculty share their work and incoming students can tune-in to learn about research opportunities. To learn more about this year's series, visit the [summer-faculty-talks.md](./summer-faculty-talks.md) file.
 
+## Moving to San Diego
+
+See [move-to-san-diego.md](./move-to-san-diego.md) for more information about the steps you should take to move to San Diego.
+
 ## Course Instructors
 
 This course is led by current BISB graduate students! Four lead instructors curate Bootcamp's content and give the majority of lectures, while guest instructors are invited to provide instruction on specialized topics.
@@ -39,8 +43,22 @@ This course is led by current BISB graduate students! Four lead instructors cura
 | ---- | ----- | ----------- |
 | TODO | TODO  | TODO        |
 
-## General Resources
+## Questions?
+
+*For questions about bootcamp,* please contact your bootcamp instructors!
+
+*For general questions about student life in the BISB Program,* feel free to message to the BISB Student Discord. You should receive an invite link in our first email. Our discord server is entirely student-run, and you can find people from different labs, different years, and different program tracks! It is a great informal resource to chat with your fellow students, especially as many of us were working remotely during the COVID-19 pandemic. *Please note that the BISB Student Discord and the BISB Student Website are student-run and student-curated resources. Therefore, please do not share the access link with faculty or staff members.*
+
+*For formal questions about the program and program requirements,* please contact our program coordinator, Fran Perez Estrada! Another helpful resource, especially for financial matters, is Elizabeth Soos, the Student Affairs Manager for our program and the Department of Bioengineering.
+
+| Name               | Email Address                                                   | Title                             |
+| ------------------ | --------------------------------------------------------------- | --------------------------------- |
+| Fran Perez Estrada | [fperezestrada@eng.ucsd.edu](mailto:fperezestrada@eng.ucsd.edu) | BISB Graduate Coordinator         |
+| Elizabeth Soos     | [esoos@eng.ucsd.edu](mailto:esoos@eng.ucsd.edu)                 | BISB/BENG Student Affairs Manager |
+
+### General Resources
 
 * Bioinformatics & Systems Biology Program website: https://bioinformatics.ucsd.edu/
-* University of California, San Diego Gradaute Division website: https://grad.ucsd.edu/
+* University of California, San Diego Graduate Division website: https://grad.ucsd.edu/
 * University of California, San Diego Current Student portal: https://students.ucsd.edu/
+

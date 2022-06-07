@@ -2,15 +2,16 @@
 
 ## Usage
 
-```bash
-cookiecutter https://github.com/bioinfo-ucsd/cookiecutter-BISB-Bootcamp.git
-```
+1. Clone this repository
+2. Fill in `cookiecutter.json` with your information.
+3. Run `cookiecutter --no-input cookiecutter-BISB-Bootcamp`
 
 ## Directory structure
 
 ```bash
 ├── README.md
 ├── summer-faculty-talks.md
+├── move-to-san-diego.md
 ├── day1
 ├── day2
 ├── day3
